@@ -1,0 +1,47 @@
+<html>
+
+<head>
+</head>
+
+<body>
+    <h1 style="color:green; font-size: 30px">heading 1</h1>
+    <p>This is our first html website and next soon be pro!</p>
+    <b>anusha</b><br>
+    <i>an<u>hi</u>ushha</i><br>
+    <u>underline</u>
+    <hr>
+    <hr>
+    <hr>
+    <h1>
+        List Tags
+    </h1>
+    <h2>(1. 2. 3. ,a. b. c. ,I. II. III.)
+        1.orderd list
+    </h2>
+    <ol>
+        <li>first</li>
+        <li>second</li>
+    </ol>
+    <ol type="A">
+        <li>first</li>
+        <li>second</li>
+    </ol>
+    <ol type="a">
+        <li>first</li>
+        <li>second</li>
+    </ol>
+    <h2>
+        2.unorderd list(bullet list,squre list)
+    </h2>
+    <ul>
+        <li>first</li>
+        <li>second</li>
+    </ul>
+    <ul type="circle">
+        <li>first</li>
+        <li>second</li>
+    </ul>
+    Indentation!.............Format Documentation
+</body>
+
+</html>
